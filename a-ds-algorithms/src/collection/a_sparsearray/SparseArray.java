@@ -5,6 +5,9 @@ import java.util.Arrays;
 
 /**
  * 复习稀疏数组
+ * （L, W,  N）
+ * （值、行、列）
+ *
  *
  */
 public class SparseArray {
